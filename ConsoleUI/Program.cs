@@ -18,6 +18,9 @@ namespace ConsoleUI
       log.Error("This is my error message");
 
       Console.ReadLine();
+
+      
+
     }
   }
 }
